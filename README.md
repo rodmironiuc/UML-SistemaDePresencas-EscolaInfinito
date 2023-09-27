@@ -19,13 +19,13 @@ A seguir, os passos para a preparação do projeto:
 10. Segurança é imprescindível nas plataforma de hospedagem de repositórios GIT. CUIDADO com exposição de senha e acesso ao repositório.
 
 
-# Projeto: *<Nome_do_seu_Projeto>*
+# Projeto: Sistema De Presenças Escola Infinito
 
-# Grupo: *<Nome_do_seu_Grupo>*
+# Grupo: Koridastj
 
 # Descrição
 
-*<Descrição_resumida_do_projeto>*
+O projeto se trata da implementação de um sistema de controle de presença dos alunos da Escola Infinito, uma escola de turmas de Ensino Fundamental 2. O sistema de presenças pode ser usado para registrar o controle da frequência dos alunos nas aulas ao longo do ano letivo e gerar relatórios específicos a qualquer momento. Além disso, é capaz de controlar automaticamente a frequência de cada um dos alunos, notificando diretamente aos responsáveis caso seja necessário.
 
 # Documentação
 
