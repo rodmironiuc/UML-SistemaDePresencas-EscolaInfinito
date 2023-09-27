@@ -27,15 +27,9 @@
 
 # Autores
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
-* Aluno 5
-* Aluno 6
-* Aluno 7
-* Aluno 8
-
+* Enrico Najjar Galdeano - 32260407
+* Mauricio Gabriel Gutierrez Garcia - 32266601
+* Rodrigo Mironiuc Fernandes - 32274823
 
 # Descrição do projeto
 
@@ -45,8 +39,9 @@
 *&lt;Descrição dos requisitos&gt;*
 
 # Diagrama de casos de uso
+  ![image](https://github.com/rodmironiuc/UML-SistemaDePresencas-EscolaInfinito/assets/142501084/fe5c856c-60f1-4a52-a8e5-536448c83479)
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+
 
 # Descrição dos casos de uso
 
