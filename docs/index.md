@@ -88,11 +88,13 @@ Requisitos Não – Funcionais:
 
 # Diagrama de classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+![image](https://github.com/rodmironiuc/UML-SistemaDePresencas-EscolaInfinito/assets/100619939/c26a03e8-c318-4ff7-90cf-dfa72846d3aa)
+
 
 # Diagrama de Componentes
 
-*&lt;Diagrama para exibir a relação estrutural dos componentes de um sistema de software
+![image](https://github.com/rodmironiuc/UML-SistemaDePresencas-EscolaInfinito/assets/100619939/cb03144e-a7b9-4881-b91a-6be5a1923cf5)
+
 
 # Decisões de arquitetura
 
