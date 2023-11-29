@@ -98,7 +98,19 @@ Requisitos Não – Funcionais:
 
 # Decisões de arquitetura
 
-*&lt;Descrever a infraestrutura escolhida para arquitetura do projeto&gt;*
+Decisões de arquitetura
+
+
+     Este documento explicará as decisões de arquitetura que foram tomadas na criação dos diagramas UML necessários para atender às demandas do Sistema de Presenças da Escola Infinito:
+
+
+Diagrama de casos de uso: Este diagrama representa as interações entre os atores, que neste caso são os professores, alunos e pais/responsáveis. Alguns dos casos de uso são, por exemplo, os registros de faltas, a geração de relatórios de faltas, o cálculo da porcentagem de faltas e o envio de uma notificação para os pais. Essas decisões foram tomadas para conectar todos os atores, levando em consideração as responsabilidades e necessidades de cada um.
+
+Diagrama de Sequência: Este diagrama mostra as interações entre os objetos ao longo do uso do sistema. Ele foi dividido em cinco diagramas para gerar relatório de faltas, gerar recursos de acessibilidade, registrar faltas/presenças, calcular a porcentagem de faltas e para o envio de notificações. Nestes diagramas, buscamos representar de forma mais clara as interações entre os atores, visando também a eficácia das ações do usuário. Estamos buscando a melhor experiência do usuário e garantir que o sistema atenda às suas necessidades de maneira eficiente e eficaz.
+
+Diagrama de Classes: O diagrama de classes representa a relação entre diferentes classes, seus atributos e métodos. Nele são representados as classes Professor, Acessibilidade, Relatório de Faltas, Porcentagem de faltas, Pais e Responsáveis. Este diagrama serve para entender e mostrar a estrutura organizacional, como os objetos interagem entre si no sistema, e fazer uma representação mais realista possível das entidades envolvidas.
+
+Diagrama de Componentes: Este diagrama mostra os componentes de um sistema e como eles interagem entre si. Ele ajuda a visualizar a estrutura do sistema e como os componentes estão conectados.
 
 # Diagrama de implantação
 
